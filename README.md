@@ -1,19 +1,24 @@
 **Overview**
+
 This repository contains VBA scripts designed to automate key billing reconciliation tasks for laboratory operations. These scripts improve efficiency by automating data updates, reducing manual effort, and enhancing accuracy in the billing process.
 
-****Features**
+**Features**
+
 ✅ Automates billing reconciliation updates
 ✅ Updates the Master Tracker with data from external sources
 ✅ Streamlines client-specific billing tracker updates
 ✅ Reduces manual data entry and improves accuracy
 
 **Included Scripts**
+
 1️⃣ **UpdateTracker.bas**
 Automates updating the Master Tracker with external data
 Ensures data consistency and reduces manual effort
+
 2️⃣ **UpdateBillingReconciliation.bas**
 Updates billing reconciliation sheets with claim statuses
 Automates data extraction and processing
+
 3️⃣ **UpdateClientTracker.bas**
 Updates client-specific billing trackers
 Ensures accurate reporting for different clients

@@ -23,14 +23,17 @@ Automates data extraction and processing
 Updates client-specific billing trackers
 Ensures accurate reporting for different clients
 Installation & Usage
+
 🔹 Step 1: Import the Scripts into Excel VBA
 Open Excel and press ALT + F11 to open the VBA Editor
 Click File > Import File…
 Select the .bas file you want to import
+
 🔹 Step 2: Run the Script
 In the VBA Editor, navigate to Modules
 Locate the imported script (e.g., UpdateTracker)
 Press F5 to run the script
+
 Requirements
 ✔️ Microsoft Excel (Windows)
 ✔️ Basic VBA Knowledge (for modifications)
